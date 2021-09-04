@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra10025&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra10025" /> </p>
 
-- 🌱 I’m currently learning **Neo4j, AWS, Technical Art**
+- 🌱 I’m currently learning **Graphics Programming, Neo4j, AWS, Technical Art**
 
 - 👨‍💻 All of my projects are available at [kushagra10025.github.io](https://kushagra10025.github.io/)
 
