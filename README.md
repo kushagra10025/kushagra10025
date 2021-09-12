@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [kushagra10025.github.io](https://kushagra10025.github.io/)
 
-- 📝 I regularly write articles on [dev.to/kushagra10025](https://dev.to/kushagra10025)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/kushagra10025) and [Medium](https://medium.com/@kushagra.mckv)
 
 - 💬 Ask me about **Unity, Unreal, Houdini**
 
