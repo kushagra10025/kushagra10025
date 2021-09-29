@@ -26,7 +26,7 @@
 <a href="https://dev.to/kushagra10025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kushagra10025" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kushagra-959b8018b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushagra-959b8018b" height="30" width="40" /></a>
 <a href="https://instagram.com/kushagra.prakash.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushagra.prakash.9" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kushagra prakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kushagra prakash" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCRTrDc6boHsB_3KHJPNoeXA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kushagra prakash" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kushagra_2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kushagra_2019" height="30" width="40" /></a>
 </p>
 
