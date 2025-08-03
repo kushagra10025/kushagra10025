@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra10025&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra10025" /> </p>
 
-- 🌱 I’m specialize in Tools Scripting and Procedural Tech Art with Houdini while also learning **AI and Gameplay Programming, Graphics Programming, Technical Art**
+- 🌱 I specialize in Tools Scripting and Procedural Tech Art with Houdini while also learning **AI and Gameplay Programming, Graphics Programming, Technical Art**
 
 - 👨‍💻 All of my projects are available at [kushagra10025.github.io](https://kushagra10025.github.io/)
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/kushagra10025) and [Medium](https://medium.com/@kushagra.mckv)
 
-- 💬 Ask me about **Unreal, Unity, Houdini**
+- 💬 Ask me about **Unreal, Godot, Houdini**
 
 - 📫 How to reach me **kushagra.mckv@gmail.com**
 
